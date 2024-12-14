@@ -1,0 +1,11 @@
+{
+  "main": "dist/index.html",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "小江",
+      "explain": "小江",
+      "cmds": ["小江", "轻松一刻"]
+    }
+  ]
+}
