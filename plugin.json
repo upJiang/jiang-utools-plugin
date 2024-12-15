@@ -1,6 +1,6 @@
 {
-  "main": "dist/index.html",
-  "logo": "logo.png",
+  "main": "./index.html",
+  "logo": "logo.jpg",
   "features": [
     {
       "code": "小江",
